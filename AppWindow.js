@@ -267,3 +267,5 @@ class AppWindow extends DraggableElement {
 }
 
 customElements.define("app-window", AppWindow);
+
+export default AppWindow;
